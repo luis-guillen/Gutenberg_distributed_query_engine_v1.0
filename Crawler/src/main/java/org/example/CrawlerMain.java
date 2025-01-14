@@ -5,7 +5,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 public class CrawlerMain {
-    private static String datalakePath = "/Users/luisguillen/Desktop/A_implementar/GreenLaterns-master/Query-Engine";
+    private static String datalakePath = "/Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine";
 
     public CrawlerMain() {
     }
