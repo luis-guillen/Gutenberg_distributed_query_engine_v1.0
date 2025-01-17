@@ -1,0 +1,24 @@
+ene 15, 2025 7:39:15 P. M. org.example.controller.StoreInvertedIndex storeInvertedIndexJson
+INFO: Created base folder: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/jsonDatamart
+ene 15, 2025 7:39:15 P. M. org.example.controller.StoreInvertedIndex lambda$storeInvertedIndexJson$0
+INFO: Created subfolder: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/jsonDatamart/U-Z
+ene 15, 2025 7:39:15 P. M. org.example.controller.StoreInvertedIndex lambda$storeInvertedIndexJson$0
+INFO: Created subfolder: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/jsonDatamart/A-D
+ene 15, 2025 7:39:15 P. M. org.example.controller.StoreInvertedIndex lambda$storeInvertedIndexJson$0
+INFO: Created subfolder: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/jsonDatamart/A-D
+ene 15, 2025 7:39:15 P. M. org.example.controller.StoreInvertedIndex lambda$storeInvertedIndexJson$0
+INFO: Created subfolder: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/jsonDatamart/E-H
+ene 15, 2025 7:39:15 P. M. org.example.controller.StoreInvertedIndex lambda$storeInvertedIndexJson$0
+INFO: Created subfolder: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/jsonDatamart/I-L
+ene 15, 2025 7:39:15 P. M. org.example.controller.StoreInvertedIndex lambda$storeInvertedIndexJson$0
+INFO: Created subfolder: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/jsonDatamart/M-P
+ene 15, 2025 7:39:15 P. M. org.example.controller.StoreInvertedIndex lambda$storeInvertedIndexJson$0
+INFO: Created subfolder: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/jsonDatamart/Q-T
+ene 15, 2025 7:39:15 P. M. org.example.controller.StoreInvertedIndex storeInvertedIndexJson
+INFO: Completed storing inverted index as JSON files. Total words processed: 184330
+ene 15, 2025 7:49:15 P. M. org.example.controller.StoreInvertedIndex storeInvertedIndexMongo
+INFO: Connected to MongoDB database: BooksDatabase, collection: InvertedIndex
+ene 15, 2025 7:49:15 P. M. org.example.controller.StoreInvertedIndex storeInvertedIndexMongo
+INFO: Completed storing inverted index in MongoDB. Total words processed: 152514
+ene 15, 2025 7:59:15 P. M. org.example.controller.StoreInvertedIndex storeInvertedIndexJson
+INFO: Completed storing inverted index as JSON files. Total words processed: 149941
