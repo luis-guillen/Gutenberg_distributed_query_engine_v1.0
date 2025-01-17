@@ -46,7 +46,7 @@ public class Main {
             executor.shutdownNow();
         }
 
-        int apiPort = 4567; // API port
+        int apiPort = 8080; // API port
         QueryAPI queryAPI = new QueryAPI(hazelcastInstance, apiPort);
         queryAPI.startServer(); // Should start the server correctly
 

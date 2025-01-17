@@ -7,9 +7,6 @@ import java.util.concurrent.TimeUnit;
 public class CrawlerMain {
     private static String datalakePath = "/Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine";
 
-    public CrawlerMain() {
-    }
-
     public static void main(String[] args) {
         Crawler crawler = new Crawler(datalakePath);
         System.out.println("Starting book downloads...\n");

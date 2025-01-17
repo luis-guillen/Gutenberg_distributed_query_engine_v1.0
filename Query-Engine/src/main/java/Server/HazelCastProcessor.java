@@ -22,17 +22,23 @@ public class HazelCastProcessor {
         this.dataLakePath = dataLakePath;
         this.dataMartPath = dataMartPath;
 
+        // Crear configuración de Hazelcast
         Config config = new Config();
-        JoinConfig joinConfig = config.getNetworkConfig().getJoin();
-        joinConfig.getMulticastConfig().setEnabled(false);
-        joinConfig.getTcpIpConfig().setEnabled(true)
-                .addMember("192.168.0.28")
-                .addMember("192.168.0.24")
-                .addMember("192.168.0.25");
 
+        // Establecer el nombre del clúster
+        config.setClusterName("dev"); // Cambiar "dev" por el nombre del clúster deseado
+
+        // Configurar la unión de nodos
+        JoinConfig joinConfig = config.getNetworkConfig().getJoin();
+        joinConfig.getMulticastConfig().setEnabled(false); // Desactivar multicast
+        joinConfig.getTcpIpConfig().setEnabled(true)      // Activar TCP/IP
+                .addMember("172.20.10.11:5701")
+                .addMember("172.20.10.10:5701")
+                .addMember("172.20.10.12:5701");
+
+        // Crear instancia de Hazelcast
         this.hazelcastInstance = Hazelcast.newHazelcastInstance(config);
     }
-
     public void processData() {
         Map<String, List<String>> hazelcastMap = hazelcastInstance.getMap("datalake-map");
 
@@ -92,7 +98,6 @@ public class HazelCastProcessor {
 
                         for (Map<String, String> wordData : wordsList) {
                             for (Map.Entry<String, String> entry : wordData.entrySet()) {
-                                hazelcastMap.putIfAbsent(entry.getKey(), entry.getValue());
 
                                 batchMap.put(entry.getKey(), entry.getValue());
 

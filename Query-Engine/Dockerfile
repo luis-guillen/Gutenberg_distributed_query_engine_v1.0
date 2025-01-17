@@ -15,6 +15,7 @@ COPY ./Datalake /data/datalake
 # Copiamos los datos del datamart
 
 # Exponemos el puerto en el que la API va a escuchar las solicitudes
+EXPOSE 8080
 EXPOSE 4567
 
 CMD ["java","-Xmx1g","-Xmx6g", "-jar", "Query-Engine-1.0-SNAPSHOT.jar"]
