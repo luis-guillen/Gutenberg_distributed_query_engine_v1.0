@@ -1,10 +1,10 @@
-# Usamos una imagen base de OpenJDK para ejecutar aplicaciones Java
+# Use the official OpenJDK 17 image as the base image
 FROM openjdk:17-jdk-slim
 
-# Establecemos el directorio de trabajo en el contenedor
+# Establish the working directory in the container
 WORKDIR /app
 
-# Copiamos el archivo JAR de la API
+# Copy the JAR file of the API
 COPY ./target/Query-Engine-1.0-SNAPSHOT.jar /app/Query-Engine-1.0-SNAPSHOT.jar
 
 COPY ./jsonDatamart /data/datamart
@@ -12,9 +12,9 @@ COPY ./jsonDatamart /data/datamart
 # Copiamos los datos del datalake
 COPY ./Datalake /data/datalake
 
-# Copiamos los datos del datamart
+# Copy the data from the datamart
 
-# Exponemos el puerto en el que la API va a escuchar las solicitudes
+# Expose the port in which the API will listen for requests
 EXPOSE 8080
 EXPOSE 4567
 

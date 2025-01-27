@@ -9074,3 +9074,419 @@ ene 15, 2025 6:35:14 P. M. org.example.Crawler crawlerRunner
 INFO: Execution completed. 2150 books downloaded.
 ene 15, 2025 6:35:24 P. M. org.example.Crawler crawlerRunner
 INFO: Execution completed. 2150 books downloaded.
+ene 17, 2025 7:05:12 P. M. org.example.Crawler setupStorage
+INFO: Storage directory created at: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake
+ene 17, 2025 7:05:12 P. M. org.example.Crawler crawlerRunner
+INFO: Starting to download books from ID 1...
+ene 17, 2025 7:05:14 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_John F. Kennedy's Inaugural Address.txt
+ene 17, 2025 7:05:14 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The United States Bill of Rights.txt
+ene 17, 2025 7:05:14 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Lincoln's Gettysburg Address.txt
+ene 17, 2025 7:05:14 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 1
+ene 17, 2025 7:05:14 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 2
+ene 17, 2025 7:05:14 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 3
+ene 17, 2025 7:05:14 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Declaration of Independence of the United States of America.txt
+ene 17, 2025 7:05:14 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 4
+ene 17, 2025 7:05:14 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Abraham Lincoln's Second Inaugural Address.txt
+ene 17, 2025 7:05:14 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 5
+ene 17, 2025 7:05:14 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Abraham Lincoln's First Inaugural Address.txt
+ene 17, 2025 7:05:14 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 6
+ene 17, 2025 7:05:14 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Give Me Liberty or Give Me Death.txt
+ene 17, 2025 7:05:14 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 7
+ene 17, 2025 7:05:14 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Mayflower Compact.txt
+ene 17, 2025 7:05:14 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 8
+ene 17, 2025 7:05:14 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The United States Constitution.txt
+ene 17, 2025 7:05:14 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 9
+ene 17, 2025 7:05:15 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Hunting of the Snark_ An Agony in Eight Fits.txt
+ene 17, 2025 7:05:15 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 10
+ene 17, 2025 7:05:15 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Alice's Adventures in Wonderland.txt
+ene 17, 2025 7:05:15 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 11
+ene 17, 2025 7:05:15 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Through the Looking-Glass.txt
+ene 17, 2025 7:05:15 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 12
+ene 17, 2025 7:05:15 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Peter Pan.txt
+ene 17, 2025 7:05:15 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 13
+ene 17, 2025 7:05:15 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Moby-Dick; or, The Whale.txt
+ene 17, 2025 7:05:15 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 14
+ene 17, 2025 7:05:15 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The 1990 CIA World Factbook.txt
+ene 17, 2025 7:05:15 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 15
+ene 17, 2025 7:05:15 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Book of Mormon.txt
+ene 17, 2025 7:05:15 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 16
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Federalist Papers.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 17
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Song of Hiawatha.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 18
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Paradise Lost.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 19
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Aesop's Fables.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 20
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Narrative of the Life of Frederick Douglass, an American Slave.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 21
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_O Pioneers!.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 22
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Paradise Lost.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 23
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Roget's Thesaurus.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 24
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The 1991 CIA World Factbook.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 25
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Far from the Madding Crowd.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 26
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The King James Version of the Bible.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 27
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Fables of Aesop.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 28
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The 1990 United States Census.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 29
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Herland.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 30
+ene 17, 2025 7:05:16 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Scarlet Letter.txt
+ene 17, 2025 7:05:16 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 31
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Zen and the Art of the Internet.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 32
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Time Machine.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 33
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Plays of Sophocles_ Oedipus the King; Oedipus at Colonus; Antigone.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 34
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Bible, King James Version, Complete.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 35
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The War of the Worlds.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 36
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The 1990 United States Census [2nd].txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 37
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Hitchhiker's Guide to the Internet.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 38
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+WARNING: Could not extract the title for book 40
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_unknown_title_40.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 39
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Legend of Sleepy Hollow.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 40
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Strange Case of Dr. Jekyll and Mr. Hyde.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 41
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Strange Case of Dr. Jekyll and Mr. Hyde.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 42
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_A Christmas Carol in Prose; Being a Ghost Story of Christmas.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Anne of Green Gables.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 43
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 44
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Jargon File, Version 2.9.10, 01 Jul 1992.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 45
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Anne of Avonlea.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 46
+ene 17, 2025 7:05:17 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Surfing the Internet_ An Introduction.txt
+ene 17, 2025 7:05:17 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 47
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Pi to 1,000,000 places.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 48
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+WARNING: Failed to download https://www.gutenberg.org/cache/epub/52/pg52.txt: https://www.gutenberg.org/cache/epub/52/pg52.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+WARNING: Failed to download book 52 in any supported format.
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Anne of the Island.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 49
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Marvelous Land of Oz.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 50
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The 1992 CIA World Factbook.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 51
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Wonderful Wizard of Oz.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 52
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_NREN for All_ Insurmountable Opportunity.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 53
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Aladdin and the Magic Lamp.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 54
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Paradise Regained.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 55
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 56
+ene 17, 2025 7:05:18 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Scarlet Pimpernel.txt
+ene 17, 2025 7:05:18 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 57
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Communist Manifesto.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 58
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_A Princess of Mars.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 59
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Number _e_.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 60
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Song of the Lark.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 61
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Gods of Mars.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 62
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Dawn of Amateur Radio in the U.K. and Greece_ A Personal View.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 63
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Workshop on Electronic Texts_ Proceedings, 9-10 June 1992.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 64
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Black Experience in America.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 65
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The warlord of Mars.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 66
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The 32nd Mersenne Prime.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 67
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_What Is Man_ and Other Essays.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 68
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The First 100,000 Prime Numbers.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 69
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_On the Duty of Civil Disobedience.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 70
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Thuvia, Maid of Mars.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 71
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Red Badge of Courage_ An Episode of the American Civil War.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 72
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_E-mail 101.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 73
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Adventures of Huckleberry Finn.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 74
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Adventures of Tom Sawyer, Complete.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 75
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Tarzan of the Apes.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 76
+ene 17, 2025 7:05:19 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The House of the Seven Gables.txt
+ene 17, 2025 7:05:19 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 77
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Terminal Compromise.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 78
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Return of Tarzan.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 79
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_From the Earth to the Moon; and, Round the Moon.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 80
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Online World.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 81
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Ivanhoe_ A Romance.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 82
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Frankenstein; Or, The Modern Prometheus.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 83
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Beasts of Tarzan.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 84
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_A Connecticut Yankee in King Arthur's Court.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 85
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_North American Free Trade Agreement, 1992 Oct. 7 Tariff Phasing Descriptions.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 86
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Tom Sawyer Abroad.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 87
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Price_Cost Indexes from 1875 to 1989; Estimated to 2010.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 88
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Son of Tarzan.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 89
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Tarzan and the Jewels of Opar.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 90
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Tom Sawyer, Detective.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 91
+ene 17, 2025 7:05:20 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Alexander's Bridge.txt
+ene 17, 2025 7:05:20 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 92
+ene 17, 2025 7:05:21 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The prisoner of Zenda.txt
+ene 17, 2025 7:05:21 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 93
+ene 17, 2025 7:05:21 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Monster Men.txt
+ene 17, 2025 7:05:21 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 94
+ene 17, 2025 7:05:21 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The 1993 CIA World Factbook.txt
+ene 17, 2025 7:05:21 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 95
+ene 17, 2025 7:05:21 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Flatland_ A Romance of Many Dimensions.txt
+ene 17, 2025 7:05:21 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 96
+ene 17, 2025 7:05:21 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_A Tale of Two Cities.txt
+ene 17, 2025 7:05:21 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 97
+ene 17, 2025 7:05:21 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Collected Articles of Frederick Douglass.txt
+ene 17, 2025 7:05:21 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 98
+ene 17, 2025 7:05:23 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_The Complete Works of William Shakespeare.txt
+ene 17, 2025 7:05:23 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 99
+ene 17, 2025 7:05:23 P. M. org.example.Crawler crawlerRunner
+INFO: Batch completed. Books downloaded so far: 99
+ene 17, 2025 7:05:23 P. M. org.example.Crawler setupStorage
+INFO: Storage directory exists: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake
+ene 17, 2025 7:05:23 P. M. org.example.Crawler crawlerRunner
+INFO: Starting to download books from ID 101...
+ene 17, 2025 7:05:23 P. M. org.example.Crawler fetchBookContent
+INFO: Downloaded: /Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine/Datalake/book_Around the World in Eighty Days.txt
+ene 17, 2025 7:05:23 P. M. org.example.Crawler lambda$crawlerRunner$0
+INFO: Books downloaded so far: 100

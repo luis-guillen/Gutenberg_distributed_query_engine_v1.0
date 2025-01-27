@@ -1,16 +1,12 @@
-ene 15, 2025 7:29:14 P. M. org.example.controller.IndexerMain main
+ene 17, 2025 7:11:34 P. M. org.example.controller.IndexerMain main
 INFO: Starting indexing process...
-ene 15, 2025 7:29:15 P. M. org.example.controller.IndexerMain lambda$main$0
+ene 17, 2025 7:11:35 P. M. org.example.controller.IndexerMain lambda$main$0
 INFO: Building and storing inverted index in JSON Datamart...
-ene 15, 2025 7:39:15 P. M. org.example.controller.IndexerMain lambda$main$0
+ene 17, 2025 7:14:41 P. M. org.example.controller.IndexerMain lambda$main$0
 INFO: Books have been successfully indexed in the JSON Datamart.
-ene 15, 2025 7:39:15 P. M. org.example.controller.IndexerMain lambda$main$0
+ene 17, 2025 7:14:41 P. M. org.example.controller.IndexerMain lambda$main$0
 INFO: Building and storing inverted index in MongoDB Datamart...
-ene 15, 2025 7:49:15 P. M. org.example.controller.IndexerMain lambda$main$0
+ene 17, 2025 7:18:43 P. M. org.example.controller.IndexerMain lambda$main$0
 INFO: Books have been successfully indexed in the MongoDB Datamart.
-ene 15, 2025 7:49:15 P. M. org.example.controller.IndexerMain lambda$main$0
+ene 17, 2025 7:18:43 P. M. org.example.controller.IndexerMain lambda$main$0
 INFO: Building and storing inverted index in JSON Datamart...
-ene 15, 2025 7:59:15 P. M. org.example.controller.IndexerMain lambda$main$0
-INFO: Books have been successfully indexed in the JSON Datamart.
-ene 15, 2025 7:59:15 P. M. org.example.controller.IndexerMain lambda$main$0
-INFO: Building and storing inverted index in MongoDB Datamart...
