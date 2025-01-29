@@ -22,23 +22,24 @@ public class HazelCastProcessor {
         this.dataLakePath = dataLakePath;
         this.dataMartPath = dataMartPath;
 
-        // Crear configuración de Hazelcast
+        // Create Hazelcast configuration
         Config config = new Config();
 
-        // Establecer el nombre del clúster
-        config.setClusterName("dev"); // Cambiar "dev" por el nombre del clúster deseado
+        // Set the cluster name
+        config.setClusterName("dev"); // Change "dev" to the desired cluster name
 
-        // Configurar la unión de nodos
+        // Configure node joining
         JoinConfig joinConfig = config.getNetworkConfig().getJoin();
-        joinConfig.getMulticastConfig().setEnabled(false); // Desactivar multicast
-        joinConfig.getTcpIpConfig().setEnabled(true)      // Activar TCP/IP
+        joinConfig.getMulticastConfig().setEnabled(false); // Disable multicast
+        joinConfig.getTcpIpConfig().setEnabled(true)      // Enable TCP/IP
                 .addMember("172.20.10.11:5701")
                 .addMember("172.20.10.10:5701")
                 .addMember("172.20.10.12:5701");
 
-        // Crear instancia de Hazelcast
+        // Create Hazelcast instance
         this.hazelcastInstance = Hazelcast.newHazelcastInstance(config);
     }
+
     public void processData() {
         Map<String, List<String>> hazelcastMap = hazelcastInstance.getMap("datalake-map");
 

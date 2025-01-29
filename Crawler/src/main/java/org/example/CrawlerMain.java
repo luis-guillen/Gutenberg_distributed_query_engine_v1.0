@@ -5,7 +5,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 public class CrawlerMain {
-    private static String datalakePath = "/Users/luisguillen/Desktop/A_implementar/GreenLanterns-master/Query-Engine";
+    private static String datalakePath = System.getProperty("user.dir") + "/Query-Engine";
 
     public static void main(String[] args) {
         Crawler crawler = new Crawler(datalakePath);
