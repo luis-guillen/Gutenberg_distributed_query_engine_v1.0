@@ -12,7 +12,7 @@
 ## 🔧 Setup and Installation
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Gutenberg-Distributed-Query-Engine.git
+git clone https://github.com/luis-guillen/Gutenberg_Distributed_Query_Engine_v1.0.git
 cd Gutenberg-Distributed-Query-Engine
 
 ### 2️⃣ Install Dependencies
